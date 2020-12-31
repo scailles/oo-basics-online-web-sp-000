@@ -5,6 +5,13 @@ class Book
   end
   
   
+  def title
+    @title
+  end
+  
+  def auther=(author)
+    
+  
   
   
   
