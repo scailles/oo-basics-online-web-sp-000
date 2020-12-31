@@ -43,7 +43,7 @@ class Shoe
     @condition
   end
   
-  def cobble(condition)
+  def cobble
     puts "The shoe has been repaired."
     @condition==new
   end
